@@ -1,0 +1,282 @@
+1
+1
+279
+Pawn 6 b 5 b 23157 61
+Bishop 3 a 6 d 180 61
+Knight 1 b 3 a 854 61
+Bishop 2 b 8 h 78 61
+Bishop 3 e 6 b 1 61
+Bishop 2 g 8 a 4 61
+Queen 2 e 6 a 2 61
+Queen 2 c 7 h 2 61
+Bishop 6 a 1 f 85 59
+Pawn 7 e 6 d 41 59
+Bishop 7 b 4 e 109 59
+Knight 3 c 5 b 5 58
+Pawn 5 a 4 b 978 57
+Rook 8 a 4 a 1588 55
+Bishop 8 f 6 d 2 54
+Knight 1 g 2 e 20 52
+Pawn 7 g 6 g 2 47
+Pawn 4 e 5 d 1 43
+Rook 8 a 1 a 1 40
+Queen 1 d 3 b 1 39
+Pawn 2 g 3 g 202 38
+Rook 4 a 3 a 37 36
+Rook 8 a 8 d 50 33
+Queen 6 b 8 d 30 33
+Queen 2 a 5 d 1 33
+Rook 5 a 5 b 3 32
+Queen 6 c 8 a 24 30
+King 7 f 8 g 156 29
+Queen 6 e 7 d 1 29
+Queen 8 d 8 a 52 27
+Queen 7 a 5 a 23 27
+Knight 3 b 5 a 1003 27
+Queen 5 b 5 a 5 27
+Queen 8 a 7 b 22 24
+Queen 8 c 7 c 1 24
+Pawn 5 e 4 f 8 24
+Queen 7 c 7 d 4 23
+King 8 f 7 e 28 23
+Rook 4 a 8 a 1 23
+King 8 d 7 e 399 22
+Queen 8 d 7 d 16 22
+King 3 g 2 f 19 22
+Queen 8 d 8 b 60 22
+ 0  0  1 22
+ 0  0  1 22
+King 7 e 8 f 183 22
+Rook 8 h 8 e 68 21
+King 7 f 7 g 811 21
+Knight 8 g 6 f 37 21
+ 0  0  1 21
+Queen 7 c 8 c 1 21
+Queen 8 d 7 c 1 21
+Queen 5 d 8 d 7 21
+ 0  0  1 21
+Queen 8 d 7 e 1 21
+Queen 8 c 8 b 9 20
+Queen 8 a 8 g 715 18
+Queen 8 b 4 f 269 18
+ 0  0  1 18
+King 2 f 3 e 1297 18
+ 0  0  1 18
+Bishop 4 f 3 g 147 18
+Pawn 3 e 4 f 2 18
+Queen 7 h 8 h 10 18
+ 0  0  1 17
+King 7 d 6 d 17 16
+Queen 8 g 8 h 37 16
+Rook 8 h 8 d 7 16
+King 6 d 6 e 8 16
+King 7 c 6 c 7 16
+King 7 c 7 d 1 16
+Bishop 7 c 2 h 4 14
+King 6 d 5 c 264 14
+King 5 c 4 c 3 14
+King 5 c 6 d 2 14
+Rook 8 h 8 a 19 14
+Bishop 6 d 5 c 13 14
+Bishop 2 d 3 c 11 14
+Queen 8 b 8 h 13 13
+King 8 g 7 g 148 13
+King 8 g 7 f 8 13
+King 7 f 8 f 51 13
+Bishop 4 f 2 h 3333 13
+Pawn 7 h 6 g 50 13
+Queen 8 e 8 g 3 13
+Queen 8 c 8 h 9 13
+ 0  0  1 13
+King 7 f 7 e 12 13
+Pawn 3 c 4 d 78 13
+King 5 e 6 e 18 13
+King 7 f 6 e 1 13
+Queen 7 a 7 e 5 13
+Pawn 6 f 5 g 97 13
+King 6 h 5 h 3 13
+ 0  0  1 13
+King 7 g 8 g 2 13
+ 0  0  1 13
+ 0  0  1 13
+Queen 8 a 8 f 2 13
+Pawn 2 h 3 h 1 13
+King 1 e 2 f 22 12
+King 7 g 8 f 9 12
+King 6 e 5 d 2 12
+King 3 e 2 d 674 12
+Pawn 4 c 3 c 1 11
+King 6 d 5 e 491 11
+Knight 7 e 6 c 1 11
+King 6 d 7 d 26 11
+King 7 e 8 e 2 11
+King 6 d 6 c 5 11
+Bishop 7 c 5 a 3 10
+King 6 c 5 c 16 9
+King 5 d 5 e 2 9
+King 1 e 2 d 13 9
+King 5 f 4 f 287 9
+King 5 e 6 f 24 9
+Queen 8 f 8 h 4 9
+Queen 6 c 5 d 2 9
+Queen 5 a 5 d 1 9
+Queen 8 e 8 h 3 9
+King 5 e 6 d 17 8
+King 4 f 5 g 93 7
+ 0  0  1 7
+Pawn 2 g 4 g 13 7
+Bishop 4 f 8 b 50 6
+King 5 f 5 g 196 6
+Queen 8 b 8 g 26 6
+King 5 g 4 f 1105 6
+King 5 f 6 f 39 6
+ 0  0  1 6
+King 5 f 5 e 5 6
+King 5 g 5 h 36 6
+King 4 f 4 g 6 6
+King 5 f 4 g 4 6
+Queen 6 d 7 e 2 6
+Queen 5 b 5 d 2 6
+ 0  0  1 6
+ 0  0  1 6
+Queen 2 h 4 f 4 6
+King 4 f 5 f 4 6
+ 0  0  1 6
+ 0  0  1 6
+ 0  0  1 6
+ 0  0  1 6
+King 5 f 6 g 14 6
+ 0  0  1 6
+Queen 3 g 4 g 4 6
+ 0  0  1 6
+ 0  0  1 6
+Queen 4 b 7 e 1 6
+ 0  0  1 5
+ 0  0  1 5
+King 5 h 4 h 1 5
+Bishop 1 f 2 e 1 5
+ 0  0  1 5
+ 0  0  1 5
+ 0  0  1 5
+ 0  0  1 5
+Pawn 5 d 4 d 4449 5
+Pawn 6 f 5 e 5 5
+ 0  0  1 5
+Queen 8 b 8 c 3 5
+ 0  0  1 5
+Pawn 5 g 4 h 2 5
+Pawn 6 g 5 g 656 5
+ 0  0  1 5
+King 2 f 3 g 106 5
+King 5 g 4 h 18 5
+King 5 g 6 h 899 5
+Rook 1 h 2 h 563 5
+Pawn 3 c 4 c 2595 4
+Rook 8 h 8 g 17 4
+Pawn 4 c 5 c 469 4
+ 0  0  1 4
+ 0  0  1 4
+ 0  0  1 4
+ 0  0  1 4
+King 5 g 6 f 2 4
+ 0  0  1 4
+ 0  0  1 4
+Pawn 4 c 5 d 4 4
+Queen 8 c 8 g 25 4
+Pawn 3 h 4 g 2 4
+Pawn 6 e 5 e 605 4
+Queen 5 e 4 f 1 4
+King 6 h 7 g 55 4
+Rook 8 h 7 h 22 4
+Rook 8 h 8 f 16 4
+ 0  0  1 4
+Queen 8 b 8 f 52 4
+King 5 h 6 h 3 4
+King 4 g 5 h 3 4
+King 5 g 4 g 1 4
+ 0  0  1 4
+ 0  0  1 4
+Knight 1 g 3 f 2 4
+King 3 e 2 f 34 3
+ 0  0  1 3
+ 0  0  1 3
+ 0  0  1 3
+ 0  0  1 3
+ 0  0  1 3
+ 0  0  1 3
+ 0  0  1 3
+ 0  0  1 3
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+King 6 h 6 g 48 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+Queen 4 f 5 g 1 2
+Queen 4 f 6 f 3 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+Queen 8 h 8 f 5 2
+ 0  0  1 2
+Queen 8 h 6 f 1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+Bishop 2 h 3 g 1 2
+ 0  0  1 2
+Bishop 2 h 8 b 6 2
+Pawn 5 d 4 c 21 2
+ 0  0  1 2
+ 0  0  1 2
+Pawn 5 c 6 c 89 2
+ 0  0  1 2
+Pawn 3 d 4 d 14 2
+Pawn 5 g 4 f 18 2
+Bishop 3 g 8 b 4 2
+ 0  0  1 2
+Pawn 6 e 5 d 2 2
+Bishop 6 d 8 b 2 2
+Bishop 5 e 8 b 2 2
+Bishop 2 d 5 a 2 2
+Knight 3 f 2 h 3 2
+Bishop 2 h 4 f 2 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+ 0  0  1 2
+Knight 3 f 5 e 2 2
+King 6 h 5 g 2 2
+Queen 4 f 3 g 2 2
+Pawn 4 d 3 c 1 2
+ 0  0  1 2
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+Pawn 2 e 3 e 4 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
+ 0  0  1 1
